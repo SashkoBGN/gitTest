@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Test2");
         System.out.println();
         System.out.println("Emo in the game!");
+        System.out.println("Pravim promeni");
     }
 }
